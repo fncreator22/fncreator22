@@ -45,25 +45,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# ⚡ ENGINEERING STATUS
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Frontend Systems      ██████████ 95%
-Backend Engineering   █████████  90%
-UI/UX Architecture    █████████  88%
-AI Integration        ████████   80%
-Automation Systems    ███████    75%
-DevOps Workflow       ██████     65%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SYSTEM STATUS : ONLINE
-CURRENT MODE  : BUILDING AI SYSTEMS
-FOCUS         : AUTOMATION + UX + SCALE
-```
-
 ---
 
 # 🛠️ Technologies & Tools
@@ -154,16 +135,6 @@ FOCUS         : AUTOMATION + UX + SCALE
 </p>
 
 ---
-
-# 🧠 Developer Philosophy
-
-```text
-Build scalable systems.
-Learn through experimentation.
-Design with purpose.
-Improve continuously.
-Automate intelligently.
-```
 
 ---
 
