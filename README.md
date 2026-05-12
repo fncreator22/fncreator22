@@ -1,5 +1,3 @@
-
-
 <!-- ========================================================= -->
 <!-- HERO SECTION -->
 <!-- ========================================================= -->
@@ -9,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=AI+Full+Stack+Engineer;Building+Scalable+Digital+Systems;Cyberpunk+Developer+Environment;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=AI+Full+Stack+Engineer;Building+Scalable+Digital+Systems;Cyberpunk+Developer+Environment;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Automation+%7C+AI+Integration+%7C+DevOps"/>
 </p>
 
 <p align="center">
@@ -28,6 +26,8 @@ Passionate about building scalable systems, AI-powered applications, and modern 
 
 I enjoy solving complex problems, designing intelligent workflows, and creating production-ready systems that combine functionality, automation, and strong UI/UX.
 
+I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment systems, and automation pipelines to continuously improve development efficiency and scalability.
+
 ---
 
 ### 🚀 Current Focus
@@ -39,6 +39,7 @@ I enjoy solving complex problems, designing intelligent workflows, and creating 
 - 🔐 Secure Backend Development
 - 📦 Automation & APIs
 - 🚀 Startup System Engineering
+- 🧠 AI-Assisted Development Workflows
 
 <br clear="right"/>
 
@@ -67,11 +68,46 @@ FOCUS         : AUTOMATION + UX + SCALE
 
 # 🛠️ Technologies & Tools
 
+### 🚀 Core Technologies
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,python,javascript,tailwind,bootstrap,flask,docker,git,github,vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,python,javascript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma" />
 
 </div>
+
+---
+
+### ⚡ AI & Development Ecosystem
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integravity_AI-0F172A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI_IDE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧠 Development Areas
+
+```text
+✔ Full Stack Web Development
+✔ AI Integration & Automation
+✔ REST API Architecture
+✔ Responsive UI/UX Engineering
+✔ Cloud Deployment Workflows
+✔ Database Design & Management
+✔ Startup System Engineering
+✔ AI-Assisted Development
+✔ Modern Dev Environment Optimization
+```
 
 ---
 
