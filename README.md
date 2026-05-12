@@ -1,15 +1,22 @@
 <!-- ========================================================= -->
-<!-- LANDING PAGE NAVIGATION -->
+<!-- TERMINAL INTRO -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#️-technologies--tools">Tech Stack</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-developer-profiles">Profiles</a> •
-  <a href="#-connect-with-me">Connect</a>
-</p>
+```bash
+> booting developer profile...
+
+[ SYSTEM ONLINE ]
+
+user        : Sagar Mahajan
+role        : Full Stack Developer
+speciality  : AI + Scalable Web Systems
+status      : ACTIVE
+
+loading modules...
+[████████████████████] 100%
+
+system initialized successfully.
+```
 
 ---
 
@@ -19,13 +26,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Sagar%20Mahajan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:0f0c29,100:302b63&text=Sagar%20Mahajan&fontSize=58&fontColor=00FFFF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+Creative+Problem+Solver;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;AI+Powered+Web+Application+Developer;Code.+Design.+Deploy.+Repeat.;Building+Scalable+and+Modern+Digital+Experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+Problem+Solver;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;AI+Powered+Application+Developer;Code.+Design.+Deploy.+Repeat.;Building+Scalable+Digital+Systems"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fncreator22&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=fncreator22&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
 
 </div>
 
@@ -119,9 +126,51 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 </td>
 </tr>
 
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
+</td>
+</tr>
+
 </table>
 
 </div>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Frontend Engineering   ██████████ 95%
+Backend Development    █████████  90%
+UI/UX Systems          █████████  88%
+AI Integration         ████████   80%
+DevOps Workflow        ██████     65%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STATUS : ACTIVE
+MODE   : BUILDING SCALABLE SYSTEMS
+FOCUS  : AI + AUTOMATION + UX
+```
 
 ---
 
@@ -145,11 +194,11 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fncreator22&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fncreator22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=fncreator22&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncreator22&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncreator22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -163,20 +212,34 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fncreator22&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 # 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sagar-mahajan">
+<a href="https://www.linkedin.com/in/sagar-mahajan" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Mahajan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/fncreator22">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/fncreator22" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/fncreator22">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://www.hackerrank.com/fncreator22" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Competitive%20Coder-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://github.com/fncreator22" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
@@ -185,6 +248,6 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F2027,50:203A43,100:2C5364&text=🚀+Thanks+For+Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f0c29,100:302b63&text=🚀+Thanks+For+Visiting!&fontSize=32&fontColor=00FFFF&animation=fadeIn&fontAlignY=70"/>
 
 </div>
