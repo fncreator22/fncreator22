@@ -1,4 +1,19 @@
 <!-- ========================================================= -->
+<!-- LANDING PAGE NAVIGATION -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#️-technologies--tools">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-developer-profiles">Profiles</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
+
+---
+
+<!-- ========================================================= -->
 <!-- HERO SECTION -->
 <!-- ========================================================= -->
 
@@ -104,46 +119,7 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 </td>
 </tr>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="55"/><br><b>Figma</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br><b>Postman</b>
-</td>
-</tr>
-
 </table>
-
-</div>
-
----
-
-# ⚡ Development Ecosystem
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-00CFFF?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-14B8A6?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
@@ -179,30 +155,6 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 
 ---
 
-# 🏆 Developer Profiles
-
-<div align="center">
-
-<a href="https://github.com/fncreator22">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sagar-mahajan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/fncreator22">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/fncreator22">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 🌌 Tech Universe Animation
 
 <p align="center">
@@ -211,45 +163,20 @@ I continuously experiment with frameworks, APIs, automation systems, and deploym
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fncreator22&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Vision
-
-<div align="center">
-
-✨ Building intelligent systems that combine  
-AI + Automation + Modern UX + Scalable Architecture
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sagar-mahajan" target="_blank">
+<a href="https://www.linkedin.com/in/sagar-mahajan">
 <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Mahajan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/fncreator22" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com/fncreator22">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/fncreator22" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Competitive%20Coder-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://github.com/fncreator22" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/fncreator22">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
