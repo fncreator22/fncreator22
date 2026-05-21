@@ -45,24 +45,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# ⚡ ENGINEERING STATUS
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Frontend Systems      ██████████ 95%
-Backend Engineering   █████████  90%
-UI/UX Architecture    █████████  88%
-AI Integration        ████████   80%
-Automation Systems    ███████    75%
-DevOps Workflow       ██████     65%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SYSTEM STATUS : ONLINE
-CURRENT MODE  : BUILDING AI SYSTEMS
-FOCUS         : AUTOMATION + UX + SCALE
-```
 
 ---
 
@@ -71,40 +53,99 @@ FOCUS         : AUTOMATION + UX + SCALE
 ### 🚀 Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,python,javascript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,javascript,typescript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma" />
 </p>
 
 ---
 
-### ⚡ AI & Development Ecosystem
+### ⚡ Frontend Engineering
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Integravity_AI-0F172A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor_AI_IDE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-<img src="https://img.shields.io/badge/Heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🧠 Development Areas
+### 🔧 Backend & Database
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 AI / LLM Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedding_Retrieval-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chain_of_Thought-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rasa_AI-5A17EE?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ☁️ DevOps, Deployment & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor_AI_IDE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/EmailJS-FF8434?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧠 Engineering Practices
 
 ```text
-✔ Full Stack Web Development
-✔ AI Integration & Automation
-✔ REST API Architecture
-✔ Responsive UI/UX Engineering
-✔ Cloud Deployment Workflows
-✔ Database Design & Management
-✔ Startup System Engineering
+✔ RBAC Architecture
+✔ Row-Level Security (RLS)
+✔ Server Side Rendering (SSR)
+✔ SaaS Platform Design
+✔ Performance Optimisation
+✔ SEO Engineering
+✔ Responsive UI/UX Systems
+✔ REST API Development
+✔ Authentication & Authorization
+✔ Agile Development Workflow
+✔ Debugging & System Optimisation
 ✔ AI-Assisted Development
-✔ Modern Dev Environment Optimization
+✔ CI/CD Fundamentals
 ```
 
 ---
@@ -113,11 +154,13 @@ FOCUS         : AUTOMATION + UX + SCALE
 
 | 🚀 Project | 📖 Description |
 |---|---|
-| 🏡 **ElderSphere** | Smart care management platform using Next.js, MongoDB, Tailwind CSS & Python |
-| 💸 **Split Money** | Real-time expense management system with analytics |
-| ⚖️ **Lawyer Portfolio** | Responsive portfolio with animations and inquiry systems |
-| 📈 **Stock Prediction Dashboard** | AI-powered stock prediction using React & Flask |
-| 📅 **Appointment Booking System** | Full-stack scheduling platform with admin verification |
+| 🏫 **Examly Enterprise** | Enterprise-grade LMS & assessment platform built with React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
+| 🏢 **NexWare ERP** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
+| 🏡 **ElderSphere** | Smart care management platform using Next.js, MongoDB, Tailwind CSS, Razorpay API & Node.js |
+| 📈 **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
+| 💸 **Split Money** | Real-time group expense management system with analytics & modern React architecture |
+| 📅 **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
+| 🩸 **P2P Blood Exchange Network** | National hackathon healthcare prototype connecting blood donors & medicine providers in emergencies |
 
 ---
 
@@ -136,16 +179,6 @@ FOCUS         : AUTOMATION + UX + SCALE
 </p>
 
 ---
-
-# 🧠 Developer Philosophy
-
-```text
-Build scalable systems.
-Learn through experimentation.
-Design with purpose.
-Improve continuously.
-Automate intelligently.
-```
 
 ---
 
