@@ -167,7 +167,28 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fncreator22&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fncreator22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncreator22&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
+
+---
+
+### 🧠 Current AI Engineering Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Voice--To--Text_AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFmpeg-Media_Processing-007808?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Notion-Productivity_Workflows-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-LLM_Workflows-8A2BE2?style=for-the-badge"/>
+
 </p>
 
 ---
