@@ -163,6 +163,16 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 | 🩸 **P2P Blood Exchange Network** | National hackathon healthcare prototype connecting blood donors & medicine providers in emergencies |
 
 ---
+## Star History
+
+<a href="https://www.star-history.com/?repos=pewdiepie-archdaemon%2Fodysseus&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=pewdiepie-archdaemon/odysseus&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=pewdiepie-archdaemon/odysseus&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=pewdiepie-archdaemon/odysseus&type=date&legend=top-left" />
+ </picture>
+</a>
+---
 
 # 📊 GitHub Analytics
 
