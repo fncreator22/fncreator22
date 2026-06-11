@@ -32,14 +32,14 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ### 🚀 Current Focus
 
-- ⚡ Full Stack Web Applications
-- 🤖 AI Integration Systems
-- 🌐 Next.js Ecosystem
-- ☁️ Scalable Architecture
-- 🔐 Secure Backend Development
-- 📦 Automation & APIs
-- 🚀 Startup System Engineering
-- 🧠 AI-Assisted Development Workflows
+- Full Stack Web Applications
+- AI Integration Systems
+- Next.js Ecosystem
+- Scalable Architecture
+- Secure Backend Development
+- Automation & APIs
+- Startup System Engineering
+- AI-Assisted Development Workflows
 
 <br clear="right"/>
 
