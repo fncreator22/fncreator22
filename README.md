@@ -45,9 +45,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-
----
-
 # 🛠️ Technologies & Tools
 
 ### 🚀 Core Technologies
