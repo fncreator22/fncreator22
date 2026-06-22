@@ -42,7 +42,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 - AI-Assisted Development Workflows
 
 <br clear="right"/>
-
 ---
 
 # 🛠️ Technologies & Tools
