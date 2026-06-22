@@ -157,7 +157,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 | 📈 **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
 | 💸 **Split Money** | Real-time group expense management system with analytics & modern React architecture |
 | 📅 **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
-| 🩸 **P2P Blood Exchange Network** | National hackathon healthcare prototype connecting blood donors & medicine providers in emergencies |
 
 ---
 
