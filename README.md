@@ -215,5 +215,5 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f0c29,100:302b63&text=🚀+Thanks+For+Visiting!&fontSize=32&fontColor=00FFFF&animation=fadeIn&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f0c29,100:302b63&text=+Thanks+For+Visiting!&fontSize=32&fontColor=00FFFF&animation=fadeIn&fontAlignY=70"/>
 </p>
