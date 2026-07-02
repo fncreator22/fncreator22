@@ -16,11 +16,11 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 Full Stack Developer & AI Enthusiast
+### Full Stack Developer & AI Enthusiast
 
 Passionate about building scalable systems, AI-powered applications, and modern digital experiences using high-performance technologies and clean architecture.
 
@@ -30,7 +30,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
 - Full Stack Web Applications
 - AI Integration Systems
@@ -44,9 +44,9 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# 🛠️ Technologies & Tools
+# Technologies & Tools
 
-### 🚀 Core Technologies
+### Core Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,javascript,typescript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma" />
@@ -54,7 +54,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### ⚡ Frontend Engineering
+### Frontend Engineering
 
 <p align="center">
 
@@ -70,7 +70,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### 🔧 Backend & Database
+### Backend & Database
 
 <p align="center">
 
@@ -87,7 +87,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### 🤖 AI / LLM Engineering
+### AI / LLM Engineering
 
 <p align="center">
 
@@ -104,7 +104,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### ☁️ DevOps, Deployment & Tools
+### DevOps, Deployment & Tools
 
 <p align="center">
 
@@ -126,7 +126,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### 🧠 Engineering Practices
+### Engineering Practices
 
 ```text
 ✔ RBAC Architecture
@@ -146,20 +146,20 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-| 🚀 Project | 📖 Description |
+| Project | Description |
 |---|---|
-| 🏫 **Examly Enterprise** | Enterprise-grade LMS & assessment platform built with React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
-| 🏢 **NexWare ERP** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
-| 🏡 **ElderSphere** | Smart care management platform using Next.js, MongoDB, Tailwind CSS, Razorpay API & Node.js |
-| 📈 **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
-| 💸 **Split Money** | Real-time group expense management system with analytics & modern React architecture |
-| 📅 **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
+| **Examly Enterprise** | Enterprise-grade LMS & assessment platform built with React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
+| **NexWare ERP** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
+| **ElderSphere** | Smart care management platform using Next.js, MongoDB, Tailwind CSS, Razorpay API & Node.js |
+| **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
+| **Split Money** | Real-time group expense management system with analytics & modern React architecture |
+| **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true" />
@@ -167,7 +167,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-### 🧠 Current AI Engineering Journey
+### Current AI Engineering Journey
 
 <p align="center">
 
@@ -180,7 +180,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# 🌌 Tech Universe Animation
+# Tech Universe Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -190,7 +190,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
