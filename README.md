@@ -134,11 +134,9 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 ✔ Server Side Rendering (SSR)
 ✔ SaaS Platform Design
 ✔ Performance Optimisation
-✔ SEO Engineering
 ✔ Responsive UI/UX Systems
 ✔ REST API Development
 ✔ Authentication & Authorization
-✔ Agile Development Workflow
 ✔ Debugging & System Optimisation
 ✔ AI-Assisted Development
 ✔ CI/CD Fundamentals
