@@ -34,7 +34,7 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 
 - Full Stack Web Applications
 - AI Integration Systems
-- Next.js Ecosystem
+- RAG
 - Scalable Architecture
 - Secure Backend Development
 - Automation & APIs
