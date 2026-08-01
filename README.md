@@ -150,7 +150,6 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 |---|---|
 | **Examly Enterprise** | Enterprise-grade LMS & assessment platform built with React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
 | **NexWare ERP** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
-| **ElderSphere** | Smart care management platform using Next.js, MongoDB, Tailwind CSS, Razorpay API & Node.js |
 | **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
 | **Split Money** | Real-time group expense management system with analytics & modern React architecture |
 | **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
