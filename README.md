@@ -7,128 +7,123 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=AI+Full+Stack+Engineer;Building+Scalable+Digital+Systems;Cyberpunk+Developer+Environment;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Automation+%7C+AI+Integration+%7C+DevOps"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=%F0%9F%9A%80+AI+Full+Stack+Engineer;%F0%9F%A7%A9+Building+Scalable+Digital+Systems;%F0%9F%9B%A1%EF%B8%8F+Creator+of+Sentinel+-+MCP+Guardrail+Agent;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;%F0%9F%A4%96+Automation+%7C+AI+Integration+%7C+DevOps"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fncreator22&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/fncreator22?label=Followers&style=for-the-badge&color=00FFFF"/>
 </p>
 
 ---
 
-# About Me
+# 👋 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Full Stack Developer & AI Enthusiast
+### 🧠 Full Stack Developer & AI Enthusiast
 
-Passionate about building scalable systems, AI-powered applications, and modern digital experiences using high-performance technologies and clean architecture.
+Passionate about building scalable systems, AI-powered applications, and modern digital experiences using high-performance technologies and clean architecture. 🚀
 
-I enjoy solving complex problems, designing intelligent workflows, and creating production-ready systems that combine functionality, automation, and strong UI/UX.
+I enjoy solving complex problems, designing intelligent workflows, and creating production-ready systems that combine functionality, automation, and strong UI/UX. 🎯
 
-I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment systems, and automation pipelines to continuously improve development efficiency and scalability.
+I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment systems, and automation pipelines to continuously improve development efficiency and scalability. ⚡
 
 ---
 
-### Current Focus
+### 🔭 Current Focus
 
-- Full Stack Web Applications
-- AI Integration Systems
-- RAG
-- Scalable Architecture
-- Secure Backend Development
-- Automation & APIs
-- Startup System Engineering
-- AI-Assisted Development Workflows
+- 🌐 Full Stack Web Applications
+- 🤖 AI Integration Systems & RAG
+- 🛡️ AI Safety & Guardrail Agents (MCP)
+- 🏗️ Scalable Architecture
+- 🔐 Secure Backend Development
+- ⚙️ Automation & APIs
+- 🚀 Startup System Engineering
+- 🧩 AI-Assisted Development Workflows
+
 <br clear="right"/>
 
 ---
 
-# Technologies & Tools
+# 🛠️ Technologies & Tools
 
 ### Core Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,javascript,typescript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,python,javascript,typescript,tailwind,bootstrap,flask,docker,git,github,vscode,postman,eclipse,figma"/>
 </p>
 
 ---
 
-### Frontend Engineering
+### 🎨 Frontend Engineering
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ---
 
-### AI / LLM Engineering
+### 🤖 AI / LLM Engineering
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMOps-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedding_Retrieval-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Chain_of_Thought-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Rasa_AI-5A17EE?style=for-the-badge"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMOps-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedding_Retrieval-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chain_of_Thought-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
 
-### DevOps, Deployment & Tools
+### 🚢 DevOps, Deployment & Tools
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cursor_AI_IDE-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
-<img src="https://img.shields.io/badge/EmailJS-FF8434?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor_AI_IDE-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EmailJS-FF8434?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-### Engineering Practices
+### ✅ Engineering Practices
 
-```text
+```
 ✔ RBAC Architecture
 ✔ Row-Level Security (RLS)
 ✔ Server Side Rendering (SSR)
@@ -139,78 +134,115 @@ I actively experiment with AI workflows, modern IDE ecosystems, cloud deployment
 ✔ Authentication & Authorization
 ✔ Debugging & System Optimisation
 ✔ AI-Assisted Development
+✔ Model Context Protocol (MCP) Integration
 ✔ CI/CD Fundamentals
 ```
 
 ---
 
-# Featured Projects
+# 🔌 Featured Plugins & MCP Tools
+
+> My open-source contribution to the AI agent ecosystem — a plugin any Claude / Cursor / CodeX user can drop straight into their setup.
+
+<table>
+<tr>
+<td width="70%">
+
+### 🛡️ [Sentinel MCP](https://github.com/fncreator22/sentinel-mcp)
+
+A **3-stage safety guardrail agent** for LLM coding assistants (Claude Desktop, Cursor, CodeX) via the Model Context Protocol. Sits between your AI agent and its execution environment — reviewing every action before it runs, blocking destructive commands, and logging a full audit trail.
+
+**Pipeline:** Rules Engine ⚡ → Trained Classifier (76% CV accuracy) 🧮 → LLM Reviewer 🧠
+
+- 🔌 Plug-and-play MCP server — works over both **stdio** and **SSE**, so it loads with any compatible client, every session, with no usage cap
+- 🐳 One-click Docker / Windows launcher
+- 📊 Live dashboard for rules, model provider & audit log
+- 🌐 [Live demo site](https://sentinel-landing-azure.vercel.app/)
+
+</td>
+<td width="30%" align="center">
+
+[![Stars](https://img.shields.io/github/stars/fncreator22/sentinel-mcp?style=for-the-badge&color=00FFFF&label=%E2%AD%90%20Stars)](https://github.com/fncreator22/sentinel-mcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/fncreator22/sentinel-mcp?style=for-the-badge&color=00FFFF&label=%F0%9F%8D%B4%20Forks)](https://github.com/fncreator22/sentinel-mcp/forks)
+[![Last Commit](https://img.shields.io/github/last-commit/fncreator22/sentinel-mcp?style=for-the-badge&color=00FFFF&label=%F0%9F%94%84%20Updated)](https://github.com/fncreator22/sentinel-mcp/commits/main)
+[![License](https://img.shields.io/github/license/fncreator22/sentinel-mcp?style=for-the-badge&color=00FFFF&label=%F0%9F%93%84%20License)](https://github.com/fncreator22/sentinel-mcp/blob/main/LICENSE)
+
+</td>
+</tr>
+</table>
+
+`python` `security` `claude` `fastapi` `guardrails` `ai-agent` `llm` `ollama` `mcp-server`
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| **Examly Enterprise** | Enterprise-grade LMS & assessment platform built with React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
-| **NexWare ERP** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
-| **Stock Prediction Dashboard** | AI-powered stock prediction dashboard using Flask, Pandas, machine learning & real-time visualization |
-| **Split Money** | Real-time group expense management system with analytics & modern React architecture |
-| **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
+| 🛡️ **[Sentinel MCP](https://github.com/fncreator22/sentinel-mcp)** | 3-stage safety guardrail agent for LLM coding assistants, shipped as an MCP plugin for Claude Desktop, Cursor & CodeX |
+| 🎙️ **[Voice Notes AI](https://github.com/fncreator22/voice-notes-ai)** | AI-powered voice note capture & processing pipeline built in Python |
+| 🎓 **[Examly Enterprise](https://github.com/fncreator22/study-swift)** | Enterprise-grade LMS & assessment platform — React 19, TanStack Start SSR, Supabase, PostgreSQL RLS & Cloudflare Workers |
+| 🏢 **[NexWare ERP](https://github.com/fncreator22/NexWare-ERP)** | Modular SaaS ERP platform with dynamic workflow builder, multi-tenant RBAC architecture & analytics dashboards |
+| 💸 **[Split Money](https://github.com/fncreator22/Split-Money-application)** | Real-time group expense management system with analytics & modern React architecture |
+| 📅 **Appointment Booking System** | Full-stack healthcare scheduling platform with admin verification & role-based access |
+| ⚖️ **[Lawyer Portfolio](https://github.com/fncreator22/Professional-Lawyer-Portfolio-Website)** | Clean, animated portfolio site template for legal professionals |
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fncreator22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncreator22&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fncreator22&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fncreator22&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-### Current AI Engineering Journey
+### 🧠 Current AI Engineering Journey
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Voice--To--Text_AI-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFmpeg-Media_Processing-007808?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Notion-Productivity_Workflows-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_Agents-LLM_Workflows-8A2BE2?style=for-the-badge"/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Voice--To--Text_AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFmpeg-Media_Processing-007808?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Notion-Productivity_Workflows-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-LLM_Workflows-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP_Guardrails-Agent_Safety-00FFFF?style=for-the-badge"/>
 </p>
 
 ---
 
-# Tech Universe Animation
+# 🐍 Tech Universe Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
----
-
-# Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/sagar-mahajan">
-  <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Mahajan-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/fncreator22">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/fncreator22">
-  <img src="https://img.shields.io/badge/HackerRank-Competitive%20Coder-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://github.com/fncreator22">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/sagar-mahajan-513a43200/"><img src="https://img.shields.io/badge/LinkedIn-Sagar%20Mahajan-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://leetcode.com/fncreator22"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://www.hackerrank.com/fncreator22"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Coder-green?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://sagar-mahajan-official.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.instagram.com/sagar___0122/"><img src="https://img.shields.io/badge/Instagram-sagar___0122-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/fncreator22"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f0c29,100:302b63&text=+Thanks+For+Visiting!&fontSize=32&fontColor=00FFFF&animation=fadeIn&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:0f0c29,100:302b63&text=Thanks+For+Visiting!&fontSize=32&fontColor=00FFFF&animation=fadeIn&fontAlignY=70"/>
 </p>
