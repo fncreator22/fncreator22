@@ -199,28 +199,7 @@ Supporting skill set — the same engineering discipline (architecture, RBAC, SS
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fncreator22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fncreator22&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fncreator22&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fncreator22&theme=tokyo-night&hide_border=true"/>
-</p>
-
-### 3D Contribution Model
-
-Isometric 3D rendering of the contribution graph above — same data, viewed as a skyline rather than a flat grid.
-
-<p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=fncreator22&theme=dark&stats=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fncreator22&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
