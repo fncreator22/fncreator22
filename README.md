@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=AI+%2F+ML+Engineer;Agentic+Systems+%7C+LLM+Orchestration+%7C+Computer+Vision;Full-Stack+Delivery%3A+React+%7C+Next.js+%7C+Node.js+%7C+Python;Builder+of+Sentinel+-+MCP+Guardrail+Agent"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=950&lines=AI+%2F+ML+Engineer;Agentic+Systems+%7C+LLM+Orchestration+%7C+Computer+Vision;Full-Stack+Delivery%3A+React+%7C+Next.js+%7C+Node.js+%7C+Python;Builder+of+Sentinel+-+MCP+Guardrail+Agent"/>
 </p>
 
 <p align="center">
@@ -204,7 +204,7 @@ Supporting skill set — the same engineering discipline (architecture, RBAC, SS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fncreator22&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=fncreator22&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -221,10 +221,6 @@ Isometric 3D rendering of the contribution graph above — same data, viewed as 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fncreator22&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
