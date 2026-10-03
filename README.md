@@ -43,22 +43,44 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,docker,kotlin,git,github&perline=13"/>
+<p align="center"><strong>Languages &amp; Core</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,kotlin&perline=3" alt="Python, TypeScript, Kotlin"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+<p align="center"><strong>Frameworks &amp; Libraries</strong><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind&perline=5" alt="FastAPI, React, Next.js, Node.js, Tailwind CSS"/>
+</p>
+
+<p align="center"><strong>Databases</strong><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2" alt="PostgreSQL, MongoDB"/>
+</p>
+
+<p align="center"><strong>DevOps &amp; Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github&perline=3" alt="Docker, Git, GitHub"/>
+</p>
+
+<p align="center"><strong>AI, LLM &amp; Agent Tooling</strong><br/>
+  <img src="https://img.shields.io/badge/Ollama-142536?style=flat-square&logo=ollama&logoColor=8ce6f2"/>
   <img src="https://img.shields.io/badge/Gemini-142536?style=flat-square&logo=googlegemini&logoColor=8ce6f2"/>
   <img src="https://img.shields.io/badge/OpenAI-142536?style=flat-square&logo=openai&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/GPT--4-142536?style=flat-square&logo=openai&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/RAG-123347?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Confidence_Gate-123347?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-142536?style=flat-square&logo=langchain&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/LangGraph-142536?style=flat-square"/>
   <img src="https://img.shields.io/badge/MCP-123347?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis_/_BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-0EA5E9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-142536?style=flat-square&logo=n8n&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/Playwright-142536?style=flat-square&logo=playwright&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/Redis_/_BullMQ-142536?style=flat-square&logo=redis&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/Prisma-142536?style=flat-square&logo=prisma&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/WebSockets-123347?style=flat-square"/>
   <img src="https://img.shields.io/badge/ReactFlow-123347?style=flat-square"/>
-  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/YOLOv8_%2F_YOLOv11-142536?style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenCV-142536?style=flat-square&logo=opencv&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/AWS-142536?style=flat-square&logo=amazonaws&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/Azure-142536?style=flat-square&logo=microsoftazure&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-142536?style=flat-square&logo=amazons3&logoColor=8ce6f2"/>
+  <img src="https://img.shields.io/badge/CSS-142536?style=flat-square&logo=css3&logoColor=8ce6f2"/>
 </p>
 
 ---
