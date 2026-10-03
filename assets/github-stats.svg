@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 76 880 420" fill="none" role="img" aria-labelledby="title description">
   <title id="title">fncreator22's GitHub stats</title>
-  <desc id="description">Total Stars Earned: -; Total Contributions: -; Total Commits: -; Total Issues: -; PRs Created: -; Contributed to (all time): -. All-time statistics visible to the GitHub API, updated 2026-10-03 UTC. A neural network connects activity nodes to the central GitHub logo.</desc>
+  <desc id="description">Total Stars Earned: 8; Total Contributions: 1,821; Total Commits: 1,519; Total Issues: 0; PRs Created: 263; Contributed to (all time): 3. All-time statistics visible to the GitHub API, updated 2026-10-03 UTC. A neural network connects activity nodes to the central GitHub logo.</desc>
   <defs>
     <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#0d1520"/></linearGradient>
     <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#142536"/><stop offset="1" stop-color="#101923"/></linearGradient>
@@ -95,56 +95,56 @@
         <text class="core-label" y="53">GitHub</text>
       </g>
       <g class="stat-node node-stars" data-metric="stars" transform="translate(148 174)">
-      <title>Total Stars Earned: -</title>
+      <title>Total Stars Earned: 8</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-0" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.9L12 17.8l-6.2 3.3L7 14.2 2 9.3l6.9-1Z"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">8</text>
       <text class="metric-label" y="29">Stars earned</text>
       <text class="metric-caption" y="45"></text>
     </g>
 <g class="stat-node node-contributions" data-metric="contributions" transform="translate(388 150)">
-      <title>Total Contributions: -</title>
+      <title>Total Contributions: 1,821</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-2" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h4l3-7 5 14 3-7h5"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">1,821</text>
       <text class="metric-label" y="29">Contributions</text>
       <text class="metric-caption" y="45"></text>
     </g>
 <g class="stat-node node-commits" data-metric="commits" transform="translate(731 187)">
-      <title>Total Commits: -</title>
+      <title>Total Commits: 1,519</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-4" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h6m8 0h6"/><circle cx="12" cy="12" r="4"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">1,519</text>
       <text class="metric-label" y="29">Commits</text>
       <text class="metric-caption" y="45"></text>
     </g>
 <g class="stat-node node-issues" data-metric="issues" transform="translate(151 371)">
-      <title>Total Issues: -</title>
+      <title>Total Issues: 0</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-5" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v6m0 4v.1"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">0</text>
       <text class="metric-label" y="29">Issues</text>
       <text class="metric-caption" y="45"></text>
     </g>
 <g class="stat-node node-prs" data-metric="prs" transform="translate(448 426)">
-      <title>PRs Created: -</title>
+      <title>PRs Created: 263</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-1" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="4" r="2"/><circle cx="6" cy="20" r="2"/><circle cx="18" cy="20" r="2"/><path d="M6 6v12m12 0v-7a5 5 0 0 0-5-5h-1m3-3-3 3 3 3"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">263</text>
       <text class="metric-label" y="29">PRs created</text>
       <text class="metric-caption" y="45"></text>
     </g>
 <g class="stat-node node-repositories" data-metric="repositories" transform="translate(734 380)">
-      <title>Contributed to (all time): -</title>
+      <title>Contributed to (all time): 3</title>
       <ellipse class="node-halo" rx="73" ry="73" fill="url(#node-halo)"/>
       <ellipse class="satellite satellite-3" rx="61" ry="61" fill="url(#glass)" stroke="#3a819f" stroke-opacity=".75"/>
       <g class="metric-icon" transform="translate(-10 -44) scale(0.8333333333333334)" fill="none" stroke="currentColor" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="M5 3h14v18H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2Zm0 0v14m0 0h14M8 7h7"/></g>
-      <text class="metric-value" y="6">-</text>
+      <text class="metric-value" y="6">3</text>
       <text class="metric-label" y="29">Contributed to</text>
       <text class="metric-caption" y="45">repositories</text>
     </g>

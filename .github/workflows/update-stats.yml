@@ -2,10 +2,11 @@ name: Update neural stats card
 
 on:
   schedule:
-    - cron: "0 */6 * * *"      # every 6 hours
+    - cron: "0 */2 * * *"      # every 2 hours
   workflow_dispatch:            # lets you run it manually from the Actions tab
   push:
     paths:
+      - "README.md"
       - "scripts/generate_stats_svg.py"
 
 permissions:
